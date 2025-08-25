@@ -1,0 +1,17 @@
+# Node.js dependencies
+/node_modules/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# TypeScript build info
+*.tsbuildinfo
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
